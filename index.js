@@ -10,4 +10,4 @@ function shodow(options){
      })
 }
 
-module.exports.shadowGenerate = shadow;
+module.exports.shadowGenerate = shodow;

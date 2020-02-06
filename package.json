@@ -1,0 +1,22 @@
+{
+  "name": "shadowgenerator",
+  "version": "1.0.0",
+  "description": "simple package help non design to add some shadow ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MhamedEl-shahawy/Shadow_Generator-Package.git"
+  },
+  "keywords": [
+    "shadow"
+  ],
+  "author": "MohamedShahahy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MhamedEl-shahawy/Shadow_Generator-Package/issues"
+  },
+  "homepage": "https://github.com/MhamedEl-shahawy/Shadow_Generator-Package#readme"
+}
