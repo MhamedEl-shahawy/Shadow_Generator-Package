@@ -2,7 +2,7 @@
  Simple package help non design to add some shadow
 
 # What is this ?
-`npm i shadow --save`
+`npm i shadowgenerator --save`
 
 Then...
 
