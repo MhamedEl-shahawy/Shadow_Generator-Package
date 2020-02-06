@@ -1,6 +1,6 @@
 {
   "name": "shadowgenerator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple package help non design to add some shadow ",
   "main": "index.js",
   "scripts": {
