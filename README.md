@@ -7,7 +7,7 @@
 Then...
 
 ```
-import {shadowGenerate} from "shadow"
+import {shadowGenerate} from "shadowgenerator"
 
 shadowGenerate({
   shadow_type:"soft",
